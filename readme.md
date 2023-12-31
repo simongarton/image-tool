@@ -1,4 +1,4 @@
-ImageTool
+## ImageTool
 
 Simple encapsulation of the AWT BufferedImage / Graphics2D stuff, just a quick way of adding image
 functionality to anything.
